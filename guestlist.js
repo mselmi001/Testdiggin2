@@ -49,7 +49,7 @@ function inscription(){
 
 document.querySelector('button').addEventListener('click', inscription);
 
-var NS4 = (document.layers);
+/*var NS4 = (document.layers);
 var IE4 = (document.all);
 var win = window;
 var n = 0;
@@ -91,4 +91,4 @@ function Rechercher(str) {
   else
   alert("Pas trouvé !");}}
   return false;
-}
+}*/
